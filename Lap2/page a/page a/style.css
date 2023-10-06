@@ -4,3 +4,11 @@ body{
     margin: 0;
     padding: 0;
 }
+#section_normal_1 {
+    padding: 23px;
+    border-bottom: 8px solid;
+    border-bottom-color:#878787;
+}
+.container{
+
+}
