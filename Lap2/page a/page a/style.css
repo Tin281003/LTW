@@ -5,10 +5,37 @@ body{
     padding: 0;
 }
 #section_normal_1 {
-    padding: 23px;
+    padding: 50px;
     border-bottom: 8px solid;
     border-bottom-color:#878787;
 }
-.container{
-
+#section_normal_1.container{
+margin-top: 0px;
+}
+#section_normal_1 .container .alpha {
+    float: left;
+}
+#section_normal_1 .container .omega{
+    float: right;
+}
+#section_normal_1 .container .omega .c{
+    color: #DBDBDB;
+    padding-top: 8px;
+    padding-right: 8px;
+    float: left;
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px;
+}
+#section_normal_4_2 {
+    background: #333333;
+}
+#section_normal_4_2 .container .sixteen{
+    margin-top: 0px;
+}
+#section_normal_4_2 .container .sixteen .alpha .pix_container {
+    float: left;
+}
+#section_normal_4_2 .container .sixteen .omega .editContent{
+    float: right;
 }
