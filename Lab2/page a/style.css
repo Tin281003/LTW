@@ -93,7 +93,7 @@ body {
 
 #section_normal_6 {
     border-bottom: 8px solid;
-    border-bottom-color: #878787;
+    border-bottom-color: #DEDEDE;
 }
 
 #section_normal_6 .container {
@@ -166,9 +166,11 @@ body {
 }
 
 #section_agency_5 .second_link .slow_fade {
+    padding: 10px;
     border: 2px solid #96BE9E;
     font-weight: bold;
     color: #164b21;
+    text-decoration: none;
 }
 
 #section_agency_5 .rights_st {
